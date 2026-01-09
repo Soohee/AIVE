@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[49463,["/AIVE/_next/static/chunks/4321c99c904c9871.js"],"default"]
+3:I[34941,["/AIVE/_next/static/chunks/9f1f1f04aa39c10e.js"],"default"]
+4:I[72003,["/AIVE/_next/static/chunks/9f1f1f04aa39c10e.js"],"default"]
+5:I[2463,["/AIVE/_next/static/chunks/9f1f1f04aa39c10e.js"],"ClientPageRoot"]
+6:I[32891,["/AIVE/_next/static/chunks/4321c99c904c9871.js","/AIVE/_next/static/chunks/a1bab0e6e4b81574.js"],"default"]
+9:I[77400,["/AIVE/_next/static/chunks/9f1f1f04aa39c10e.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+c:I[77400,["/AIVE/_next/static/chunks/9f1f1f04aa39c10e.js"],"ViewportBoundary"]
+e:I[77400,["/AIVE/_next/static/chunks/9f1f1f04aa39c10e.js"],"MetadataBoundary"]
+10:I[42216,[],"default"]
+:HL["/AIVE/_next/static/chunks/96c6f710236c4c8b.css","style"]
+:HL["/AIVE/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/AIVE/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"wnrq487tcvtXup65HjLas","c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/AIVE/_next/static/chunks/96c6f710236c4c8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/AIVE/_next/static/chunks/4321c99c904c9871.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_2ae47f08-module__h69qWW__variable geist_mono_eb58308d-module__w_p2Lq__variable antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@7","$@8"]}}],[["$","script","script-0",{"src":"/AIVE/_next/static/chunks/a1bab0e6e4b81574.js","async":true,"nonce":"$undefined"}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[]],"S":true}
+7:{}
+8:"$0:f:0:1:1:children:0:props:children:0:props:serverProvidedParams:params"
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[84263,["/AIVE/_next/static/chunks/9f1f1f04aa39c10e.js"],"IconMark"]
+b:null
+f:[["$","title","0",{"children":"AIVE | AI융합코딩강사 모임"}],["$","meta","1",{"name":"description","content":"성남시 여성인력개발 센터 출신 15명으로 다양한 전문 분야를 가진 고학력 여성 강사 모임."}],["$","link","2",{"rel":"icon","href":"/AIVE/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]]
